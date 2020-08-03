@@ -1,4 +1,4 @@
-require_relative 'lib/expedia/crawler/version'
+require_relative "lib/expedia/crawler/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "expedia-crawler"
